@@ -28,7 +28,6 @@ uint32_t i=0;
 //*****************************************************************************
 int main(void)
 {
-	
 	i=0;
     // Setup the system clock to run at 80 Mhz from PLL with crystal reference
     HR_Sys_Clock_Freq = SysCtlClockFreqSet( 
